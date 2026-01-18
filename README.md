@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif)](https://github.com/xmmitro/) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Sumitro</h1>
-<h3 align="center">A passionate rust developer from Earth</h3>
+<h3 align="center">A passionate rust developer from planet Earth</h3>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" height="200" align="right" /> -->
 
