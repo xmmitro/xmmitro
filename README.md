@@ -4,7 +4,6 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" height="200" align="right" /> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xmmitro&label=Profile%20views&color=0e75b6&style=flat" alt="xmmitro" /> </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> About Me:
 🔭 I’m currently working on Aztec as a contributor<br>👨‍💻 All of my projects are available at sumitro.dev<br>🌱 I’m currently learning React<br>⚡ Fun fact I think I am a human
@@ -23,6 +22,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmmitro&label=Profile%20views&color=0e75b6&style=flat" alt="xmmitro" /> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=xmmitro&icon=0&color=0)](https://visitcount.itsvg.in)
 
