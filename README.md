@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to Sumitro Kapali's Digital Workspace
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Cloud+Architect;Building+Scalable+%26+Innovative+Solutions;Passionate+About+Web+Technologies;Transforming+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+DevOps+Engineer;By+the+way+I+am+also+a+human+being;Building+Scalable+%26+Innovative+Solutions;Passionate+About+Web+Technologies;Transforming+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 <br>
 
