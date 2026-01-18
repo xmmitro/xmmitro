@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif)](https://github.com/xmmitro/)
+<!-- [![MasterHead](https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif)](https://github.com/xmmitro/) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Sumitro</h1>
 <h3 align="center">A passionate rust developer from Earth</h3>
 
