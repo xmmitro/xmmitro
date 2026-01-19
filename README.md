@@ -20,7 +20,7 @@
 const sumitro = {
     name: "Sumitro Kapali",
     age: 19,
-    location: "Kailāshahar, Tripura, India",
+    location: "moulvibazar, Bangladesh",
     role: "Frontend Developer",
     
     currentFocus: [
